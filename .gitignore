@@ -1,0 +1,22 @@
+### VisualStudioCode
+
+.vscode/*
+
+### JetBrains
+
+.idea/**
+
+### Nx
+
+.nx/cache
+.nx/workspace-data
+
+### Node & Package Managers
+
+# PNPM
+.pnpm-debug.log*
+
+# Dependency directories
+node_modules
+
+
